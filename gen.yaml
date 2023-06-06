@@ -1,4 +1,9 @@
 configVersion: 1.0.0
+management:
+  docChecksum: 9227558748ccde6ae57b6035f75d272f
+  docVersion: "0.1"
+  speakeasyVersion: 1.44.2
+  generationVersion: 2.35.9
 generation:
   comments:
     disableComments: false
@@ -8,7 +13,7 @@ generation:
   singleTagPerOp: false
   tagNamespacingDisabled: false
 typescript:
-  version: 0.0.1
+  version: 1.0.0
   author: demo
   maxMethodParams: 0
   packageName: Songbird
