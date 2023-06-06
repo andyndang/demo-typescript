@@ -3,7 +3,7 @@ generation:
   comments:
     disableComments: false
     omitDescriptionIfSummaryPresent: false
-  baseServerURL: ""
+  baseServerUrl: https://api.whylabsapp.com
   sdkClassName: Songbird
   singleTagPerOp: false
   tagNamespacingDisabled: false
