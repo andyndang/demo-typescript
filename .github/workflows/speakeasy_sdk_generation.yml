@@ -22,7 +22,7 @@ jobs:
         - typescript
       mode: pr
       openapi_docs: |
-        - https://songbird.development.whylabsdev.com/swagger/whylabs-songbird-0.1.yml
+        - https://file.io/Otb5MbUj8LWA
       speakeasy_version: latest
     secrets:
       github_access_token: ${{ secrets.GITHUB_TOKEN }}
